@@ -26,7 +26,7 @@ Website: **[https://z9d-qai.com/](https://z9d-qai.com/)**
 
 ---
 
-## Was ist Z9D-QAI?
+## Was ist Z9D-QAI.com?
 
 **Z9D-QAI** ist eine mehrsprachige Webplattform rund um:
 
