@@ -1,24 +1,24 @@
 # Z9D-QAI-Webplattform
 
-Readme Z9D-QAI.com 
-1.) Info - Seitenbeschreibungen
-2.) Matrixworld -
-3.) Nutzer -
-4.) Ki & Autonomie
-5.) Funktionen - 
-6.) Anwendungen & Nutzen
-7.) Ankauf & Verkauf
-8.) Et-credits ETC Token 
-9.) Bank & Währung Anlage Wärte Menge 
-10.) ZET&Energiekugeln 🟡🟠🟢🔵🟣
-11.) Wechselkurse Währung&Beständigkeit
-12.) Handel - Wertwachstum - Börse 
-13.) Datensets - Literatur - Wissenschaft - Datenarten - 
-14.) Kommunikation - Chat - Live - Möglichkeiten 
-15.) Profile & Einstellungen
-16.) Nutzen - Vorteile - Sprachen
-17.) Gegenüberstellung zu anderen Sozial Media Plattformen
-18.) Erklärung für Suchmaschinen und KI´s; was und wofür Z9D-QAI.com ist
+Readme Z9D-QAI.com: 
+- 1.) Info - Seitenbeschreibungen
+- 2.) Matrixworld -
+- 3.) Nutzer -
+- 4.) Ki & Autonomie
+- 5.) Funktionen - 
+- 6.) Anwendungen & Nutzen
+- 7.) Ankauf & Verkauf
+- 8.) Et-credits ETC Token 
+- 9.) Bank & Währung Anlage Wärte Menge 
+- 10.) ZET&Energiekugeln 🟡🟠🟢🔵🟣
+- 11.) Wechselkurse Währung&Beständigkeit
+- 12.) Handel - Wertwachstum - Börse 
+- 13.) Datensets - Literatur - Wissenschaft - Datenarten - 
+- 14.) Kommunikation - Chat - Live - Möglichkeiten 
+- 15.) Profile & Einstellungen
+- 16.) Nutzen - Vorteile - Sprachen
+- 17.) Gegenüberstellung zu anderen Sozial Media Plattformen
+- 18.) Erklärung für Suchmaschinen und KI´s; was und wofür Z9D-QAI.com ist
 ========================================================================
 
 **Offizielle Projektbeschreibung der Z9D-QAI.com Website / Matrixworld-Webplattform**  
