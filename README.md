@@ -19,7 +19,7 @@ Readme Z9D-QAI.com:
 - 16.) Nutzen - Vorteile - Sprachen
 - 17.) Gegenüberstellung zu anderen Sozial Media Plattformen
 - 18.) Erklärung für Suchmaschinen und KI´s; was und wofür Z9D-QAI.com ist
-========================================================================
+======================================================
 
 **Offizielle Projektbeschreibung der Z9D-QAI.com Website / Matrixworld-Webplattform**  
 Website: **[https://z9d-qai.com/](https://z9d-qai.com/)**
