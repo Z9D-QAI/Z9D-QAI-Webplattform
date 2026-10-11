@@ -1381,4 +1381,7 @@ This repository and its contents are proprietary.
 No part of this website, platform, source code, structure, texts, concepts, assets or related materials may be copied, modified, distributed, published, sublicensed or used for commercial or public deployment without prior written permission from the owner.
 The repository is published for visibility and informational purposes only.
 No open-source license is granted.
+License: Proprietary / All Rights Reserved
+This repository is published for public visibility and project presentation.
+No open-source license is granted. All rights remain with Z9D-QAI unless explicitly stated otherwise.
 _____________________________
